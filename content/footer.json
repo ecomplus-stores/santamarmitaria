@@ -23,12 +23,12 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "Conexão Segura"
     },
     {
       "src": "/img/uploads/site-seguro-google.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.santamarmitaria.com.br&hl=pt_BR",
-      "alt": "https://transparencyreport.google.com/safe-browsing/search?url=www.santamarmitaria.com.br&hl=pt_BR"
+      "alt": "Site Seguro"
     }
   ],
   "payment_methods": {
