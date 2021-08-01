@@ -13,6 +13,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Promoções diferentes constantemente! "
+    "text": "Promoções diferentes constantemente! ",
+    "link": "https://www.santamarmitaria.com.br/promocoes"
   }
 }
