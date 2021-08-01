@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d996bd52ddff0d3343b4b6be6b8c2993.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f41049a46ee7b72729164f14cdc44085.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.95c760d8256c2282f9de38367dcea341.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d948f1a9d070370ef1ff0aeec20a36be.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9260702cb1ffe54fa8ee7b92daa472a1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Santa Marmitaria",
+  "short_name": "Santa Mamitaria",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja virtual de refeições saudáveis, servidas de forma à serem congeladas.",
+  "background_color": "#ffffff",
+  "theme_color": "#d0253e"
+}
