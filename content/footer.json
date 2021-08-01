@@ -29,6 +29,10 @@
       "src": "/img/uploads/site-seguro-google.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.santamarmitaria.com.br&hl=pt_BR",
       "alt": "Site Seguro"
+    },
+    {
+      "src": "/img/uploads/selo-seguranca.png",
+      "alt": "Compra Segura"
     }
   ],
   "payment_methods": {
