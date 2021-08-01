@@ -28,7 +28,10 @@
     {
       "src": "/img/uploads/selo-seguranca.png"
     },
-    {}
+    {
+      "src": "/img/uploads/google_safe.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.santamarmitaria.com.br&hl=pt_BR"
+    }
   ],
   "payment_methods": {
     "bb": true,
