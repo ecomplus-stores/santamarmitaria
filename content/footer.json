@@ -24,27 +24,31 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
-    }
+    },
+    {
+      "src": "/img/uploads/selo-seguranca.png"
+    },
+    {}
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
-    "banrisul": false,
+    "aura": true,
+    "banrisul": true,
     "elo": true,
     "hipercard": true,
-    "hsbc": false,
-    "bradesco": false,
-    "santander": false,
+    "hsbc": true,
+    "bradesco": true,
+    "santander": true,
     "mastercard": true,
     "paypal": true,
-    "citibank": false,
+    "citibank": true,
     "hiper": true,
     "diners": true,
     "mais": true,
     "amex": true,
-    "itau": false
+    "itau": true
   },
-  "credits": ""
+  "credits": "Santa Mamitaria 2021"
 }
