@@ -19,8 +19,8 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "6106b69b33f3ce442f7ffd54:categories:Nossos Pratos:/nossos-pratos",
+      "shuffle": true,
+      "collection_id": "6106b6b233f3ce442f7ffd5e:categories:Kits e Combos:/kits",
       "limit": 24,
       "page": 1,
       "sort": "news",
