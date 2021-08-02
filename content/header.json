@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "**** Pedido minimo de R$60,00 ****",
+    "text": "**** Pedido mínimo de R$60,00 ****",
     "link": "https://www.santamarmitaria.com.br/kits",
     "background": "#ffffff",
     "color": "#cd4242"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
