@@ -10,14 +10,14 @@
           "start": "2021-08-02T20:24:06.891Z",
           "end": "2021-08-02T20:24:06.948Z",
           "img": "/img/uploads/banner_desktop_atacado.png",
-          "mobile_img": "/img/uploads/banner_desktop_atacado.png",
+          "mobile_img": null,
           "link": ""
         },
         {
           "start": "2021-08-02T20:24:42.470Z",
           "end": "2021-08-02T20:24:42.517Z",
           "img": "/img/uploads/banner-home-cola-v3-5f16f2e5c3185.jpg",
-          "mobile_img": "/img/uploads/banner-home-cola-v3-5f16f2e5c3185.jpg",
+          "mobile_img": "",
           "link": ""
         }
       ]
