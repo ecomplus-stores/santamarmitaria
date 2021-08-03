@@ -27,8 +27,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "6106fcdf33f3ce442f8023ad:categories:Caldos:/caldos",
-      "limit": 24,
+      "collection_id": "6106b69b33f3ce442f7ffd54:categories:Nossos Pratos:/nossos-pratos",
+      "limit": 8,
       "page": 1,
       "sort": null,
       "headless": true
